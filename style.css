@@ -1,0 +1,45 @@
+body{
+  background-image:url("http://prakharprojects.in/wp-content/uploads/2020/09/image-for-website.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+table{
+  width: 100%;
+  border-collapse: collapse;
+
+}
+img{
+  height: 100px;
+  width: 100px;
+}
+th{
+  color: black;
+  text-align: center;
+  font-size: 40px;
+
+}
+#tr1{
+  border-bottom:2px solid grey;
+  padding: 10px;
+}
+#tr2{
+  
+  border-bottom:2px solid grey;
+  padding: 10px;
+}
+li
+{
+  font-size:20px;
+  font-weight: 300;
+  font-style: oblique;
+}
+#b,#a,#c
+{
+  font-size: 20px;
+  font-weight: bold;
+  }
+  #div21,#div22,#div31,#div12,#div11
+  {
+    font-size: 20px;
+  }
+
